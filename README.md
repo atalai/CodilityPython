@@ -1,5 +1,5 @@
 # Codility_Python
-                            **Random python solutions to Codility Exercises**
+                            **Random python solutions to Codility and HackerRank Exercises**
                             
                             
                             
